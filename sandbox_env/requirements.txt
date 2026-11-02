@@ -1,0 +1,6 @@
+langchain-core
+langgraph
+litellm
+playwright
+requests
+pydantic
